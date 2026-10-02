@@ -86,7 +86,7 @@
   "//": "READ CONTRIBUTING.md to understand what to put under deps vs. devDeps!",
   "dependencies": {
     "esbuild": "^0.21.3",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.23",
     "rollup": "^4.13.0"
   },
   "optionalDependencies": {
@@ -150,7 +150,7 @@
     "tslib": "^2.6.3",
     "types": "link:./types",
     "ufo": "^1.5.3",
-    "ws": "^8.17.0"
+    "ws": "^8.21.0"
   },
   "peerDependencies": {
     "@types/node": "^18.0.0 || >=20.0.0",
